@@ -20,12 +20,12 @@ The `hashAndCompare(crackedHash)` function takes two arguments:
 
 1. Clone the repository:
 
-   ```bash
+   ```git
    git clone https://github.com/MaelMD/password-hashing-utility.git
    
 2. Install the required dependencies:
 
-   ```python   
+   ```bash
    pip install passlib
 
 ## Usage

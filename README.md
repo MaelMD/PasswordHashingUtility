@@ -17,7 +17,8 @@ This is a Python utility for password hashing using the pbkdf2_sha256 algorithm 
    
 2. Install the required dependencies:
 
-   ```pip install passlib
+   ```
+   pip install passlib
 
 ## Usage
 

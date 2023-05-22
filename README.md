@@ -39,5 +39,6 @@ The `hashAndCompare(crackedHash)` function takes two arguments:
 
 2. Use the hashAndCompare(crackedHash) function to compare a cracked password hash with a newly generated hash:
 
-   ```hashAndCompare('get-hash-from=:your-password')
+   ```
+   hashAndCompare('get-hash-from-website =:suspected-password')
 

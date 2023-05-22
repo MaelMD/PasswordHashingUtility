@@ -41,7 +41,3 @@ The `hashAndCompare(crackedHash)` function takes two arguments:
 
    ```python
    hashAndCompare('get-hash-from-website =:suspected-password')
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.

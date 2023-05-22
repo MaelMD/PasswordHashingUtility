@@ -21,4 +21,4 @@ def hashAndCompare(crackedHash):
     
     print('Passlib: Hash: {0} Salt: {1}\nCracked: Hash: {2} Salt: {3}\n'.format(passlibChainHash, passlibChainSalt, crackedChainHashPasslibFormat, crackedChainSaltPasslibFormat))
 
-hashAndCompare('pbkdf2_sha256$24000$D3KTzHOCeZbe$JJJxUks6FW+JhvG1quwZau9dFy9eVhOJIZbUYdbJ+as=:n592001n')
+hashAndCompare('Hash=:Supected-Password')

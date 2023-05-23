@@ -35,6 +35,6 @@ This is a Python utility for password hashing using the pbkdf2_sha256 algorithm 
    hashAndCompare('crackedHash=:password')
 
 
-      **crackedHash**: The first argument is the cracked password hash obtained from a website called [illicit services](https://search.illicit.services). This website searches your email through leaked     databases on the web. If a match is found, the associated leaked password will appear in hash form. You need to provide this hash as the first argument of the `hashAndCompare` function.
+  - **crackedHash**: The first argument is the cracked password hash obtained from a website called [illicit services](https://search.illicit.services). This website searches your email through leaked     databases on the web. If a match is found, the associated leaked password will appear in hash form. You need to provide this hash as the first argument of the `hashAndCompare` function.
 
-      **password**: The second argument is the password you suspect to be leaked. You should provide this password as the second argument of the `hashAndCompare` function.
+  - **password**: The second argument is the password you suspect to be leaked. You should provide this password as the second argument of the `hashAndCompare` function.
